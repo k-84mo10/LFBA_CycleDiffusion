@@ -13,6 +13,5 @@ source myenv/bin/activate
 ```
 そして、ライブラリをインストールする。
 ```sh
-pip install -r requirements_pytorch.txt --index-url https://download.pytorch.org/whl/cu124
-pip install -r requirements_others.txt
+pip install -r requirements.txt
 ```
