@@ -1,0 +1,4 @@
+torch == 2.6.0
+torchvision 
+diffusers == 0.32.2
+transformers
