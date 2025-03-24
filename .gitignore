@@ -1,0 +1,9 @@
+# 仮想環境
+myenv
+
+# シンボリックリンク
+data
+back_data
+
+# 写真
+*.jpg
