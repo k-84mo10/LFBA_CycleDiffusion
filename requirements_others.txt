@@ -1,8 +1,0 @@
-diffusers
-transformers
-accelerate
-safetensors
-torch
-torchvision
-matplotlib
-opencv-python

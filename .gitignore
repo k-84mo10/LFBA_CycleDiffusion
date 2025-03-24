@@ -1,6 +1,9 @@
 # 仮想環境
 myenv
 
+# キャッシュ
+__pycache__
+
 # シンボリックリンク
 data
 back_data
